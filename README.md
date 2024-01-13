@@ -1,4 +1,4 @@
-# SistemasInteligentes
-Código desenvolvido para a disciplina de Sistemas Inteligentes, no curso em Bacharelado em Engenharia de Computação, da UTFPR.
+# FuzzySystem
+Code developed for the Intelligent Systems discipline, in the Bachelor's degree in Computer Engineering, at UTFPR.
 
-O código Fuzzy.py se trata de um Sistema de Controle Fuzzy utilizado para simular o controle de uma geladeira doméstica. Esta geladeira doméstica teria como função conservar vacinas contra a Covid-19, em uma temperatura ideial de 5°C.
+The Fuzzy.py code is a Fuzzy Control System used to simulate the control of a domestic refrigerator. This domestic refrigerator would have the function of storing vaccines against Covid-19, at an ideal temperature of 5°C.
